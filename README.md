@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mariointheliberty@gmail.com**
 
-- ⚡ Fun fact **I'm also a video editor and lighting technician :D**
+- ⚡ Fun fact **I'm also a video editor and lightning technician :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
