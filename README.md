@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm @Bimai6</h1>
-<h3 align="center">Web Developer </h3>
 
 ### 👨‍💻 About Me
 I'm a passionate **Web Developer** from Spain, constantly evolving and expanding my tech stack. I enjoy building functional and aesthetic web applications while exploring new technologies.
