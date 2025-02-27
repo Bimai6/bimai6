@@ -33,11 +33,11 @@ I'm a passionate **Web Developer** from Spain, constantly evolving and expanding
 
 ### 📬 Contact Me
 - Email: **bimai6.dev@gmail.com**
-- LinkedIn: [Mario Lebrero Garcia](#https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa)
+- LinkedIn: [Mario Lebrero Garcia](https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa-05596a251?trk=org-employees)
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a>
+<a href="https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa-05596a251?trk=org-employees" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a>
 <a href="https://github.com/Bimai6" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
 </p>
 
