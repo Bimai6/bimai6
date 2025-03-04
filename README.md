@@ -4,7 +4,7 @@
 I'm a passionate **Web Developer** from Spain, constantly evolving and expanding my tech stack. I enjoy building functional and aesthetic web applications while exploring new technologies.
 
 - 🔭 I’m currently working on **Full Stack Web Development Projects**
-- 🌱 I’m learning **Laravel, React & Bash Scripting**
+- 🌱 I’m learning **Laravel, React & Ruby**
 - 💬 Ask me about **JavaScript, PHP, HTML, CSS, and Web Design**
 - 🎥 I also have experience in **Video Editing**
 
