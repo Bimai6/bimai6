@@ -45,7 +45,7 @@ I'm a passionate **Web Developer** from Spain, constantly evolving and expanding
 ---
 
 ### 📬 Contact Me
-- 📧 Email: **bimai6.dev@gmail.com**
+- 📧 Email: **mario_l_g_9991@protonmail.com**
 - 💼 LinkedIn: [Mario Lebrero Garcia](https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa-05596a251?trk=org-employees)
 
 ---
