@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm @Bimai6</h1>
+![Mario Lebrero](https://res.cloudinary.com/dus7e3jkj/image/upload/v1754416697/MLGFSD_Mesa_de_trabajo_1_tsswfm.jpg)
+
+---
 
 ### 👨‍💻 About Me
 I'm a passionate **Web Developer** from Spain, constantly evolving and expanding my tech stack. I enjoy building functional and aesthetic web applications while exploring new technologies.
@@ -76,4 +78,7 @@ I'm a passionate **Web Developer** from Spain, constantly evolving and expanding
 
 ---
 
-> *Feel free to reach out if you're interested in collaborating or just want to chat about web development!*
+![Dostoyevski's Quote](https://res.cloudinary.com/dus7e3jkj/image/upload/v1754416812/Sin-t%C3%ADtulo-2_m9outm.png)
+
+
+![Digital Hands](https://res.cloudinary.com/dus7e3jkj/image/upload/v1754416704/01f13b22d6c61ecf57ce5232aadf6cf9_ay0pfs.jpg)
