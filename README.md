@@ -74,7 +74,7 @@ I'm a passionate **Web Developer** from Spain, constantly evolving and expanding
 ---
 
 ### 📊 GitHub Stats
-![Bimai6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bimai6&show_icons=true&theme=tokyonight)
+![Bimai6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bimai6&show_icons=true&title_color=B20D23&icon_color=B20D23&text_color=ffffff&bg_color=0d1117)
 
 ---
 
