@@ -1,6 +1,6 @@
 ![Mario Lebrero](https://res.cloudinary.com/dus7e3jkj/image/upload/v1754416697/MLGFSD_Mesa_de_trabajo_1_tsswfm.jpg)
 
----
+
 
 ### 👨‍💻 About Me
 I'm a passionate **Web Developer** from Spain, constantly evolving and expanding my tech stack. I enjoy building functional and aesthetic web applications while exploring new technologies.
@@ -55,21 +55,10 @@ I'm a passionate **Web Developer** from Spain, constantly evolving and expanding
 
 ---
 
-### 📬 Contact Me
-- 📧 Email: **mario_l_g_9991@protonmail.com**
-- 💼 LinkedIn: [Mario Lebrero Garcia](https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa-05596a251?trk=org-employees)
-
----
 
 ### 🔗 Connect with Me
-<p align="left">
-<a href="https://es.linkedin.com/in/mario-lebrero-garc%C3%ADa-05596a251?trk=org-employees" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://github.com/Bimai6" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-</p>
+[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/linkedin-svgrepo-com_tn4iaq.svg" width="80" height="80" alt="LinkedIn">](https://www.linkedin.com/in/mario-lebrero-garcia/)
+[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/github-142-svgrepo-com_tl2zgu.svg" width="80" height="80" alt="GitHub">](https://github.com/Bimai6)
 
 ---
 
