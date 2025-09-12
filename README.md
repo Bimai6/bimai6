@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-👋 Hi, I’m Mario Lebrero García — a passionate Frontend Developer from Spain.
+👋 Hi, I’m Mario Lebrero García — a passionate Web Developer from Spain.
 I love turning ideas into functional, clean, and aesthetic web experiences.
 
 💡 Always curious, always learning — I thrive at the intersection of design, functionality, and technology.
