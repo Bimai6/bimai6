@@ -1,69 +1,61 @@
 ![Mario Lebrero](https://res.cloudinary.com/dus7e3jkj/image/upload/v1754416697/MLGFSD_Mesa_de_trabajo_1_tsswfm.jpg)
 
-
+---
 
 ### 👨‍💻 About Me
-I'm a passionate **Web Developer** from Spain, constantly evolving and expanding my tech stack. I enjoy building functional and aesthetic web applications while exploring new technologies.
 
-- 🔭 I’m currently working on **Full Stack Web Development Projects**
-- 🌱 I’m learning **Laravel, React & Django**
-- 💬 Ask me about **JavaScript, PHP, HTML, CSS, and Web Design**
-- 🎥 I also have experience in **Video Editing**
+👋 Hi, I’m Mario Lebrero García — a passionate Frontend Developer from Spain.
+I love turning ideas into functional, clean, and aesthetic web experiences.
+
+💡 Always curious, always learning — I thrive at the intersection of design, functionality, and technology.
+
+🎨 Guess my favorite color… 🔴❤️
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757691085/html-124-svgrepo-com_iifi5d.svg" width="80" height="80" alt="HTML5"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757691361/css3-02-svgrepo-com_j3dhiy.svg" width="80" height="80" alt="CSS3"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757691734/javascript-155-svgrepo-com_css48d.svg" width="80" height="80" alt="JavaScript"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757692190/typescript-svgrepo-com_yfdrxc.svg" width="80" height="80" alt="TypeScript"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757692341/php01-svgrepo-com_yyimqq.svg" width="80" height="80" alt="PHP"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757692414/java-svgrepo-com_olvr8l.svg" width="80" height="80" alt="Java"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757692514/python-127-svgrepo-com_xslibp.svg" width="80" height="80" alt="Python"> 
 
 #### Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693228/react-javascript-js-framework-facebook-svgrepo-com_cewusc.svg" width="80" height="80" alt="React"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693324/laravel-svgrepo-com_tr3inr.svg" width="80" height="80" alt="Laravel"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693430/django-svgrepo-com_ufheji.svg" width="80" height="80" alt="Django"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693531/symfony-svgrepo-com_comn7d.svg" width="80" height="80" alt="Symfony"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693701/tailwind-svgrepo-com_swxfws.svg" width="80" height="80" alt="Tailwind"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693834/material-ui-svgrepo-com_gb8wdm.svg" width="80" height="80" alt="Material UI"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757693936/sass-svgrepo-com_cmfoju.svg" width="80" height="80" alt="Sass">
 
 #### Scripting & Automation:
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757694394/bash_bhlxu4.png" width="80" height="80" alt="Bash">
 
 #### Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757694583/git-svgrepo-com_1_zmob9z.svg" width="80" height="80" alt="Git"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/github-142-svgrepo-com_tl2zgu.svg" width="80" height="80" alt="GitHub"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757694686/figma-svgrepo-com_ifu99t.svg" width="80" height="80" alt="Figma"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757694838/trello-logo-svgrepo-com_mwd8ee.svg" width="80" height="80" alt="Trello"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757695100/postman_pxofct.png" width="80" height="80" alt="Postman"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757695222/vercel-fill-svgrepo-com_nnfqlj.svg" width="80" height="80" alt="Vercel"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757695387/render_red_qjc9bm.png" width="85" height="85" alt="Render"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757695498/supabase_red_juaq9b.png" width="90" height="90" alt="Supabase">
+
 
 #### Media & Design:
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-
----
-
-
-### 🔗 Connect with Me
-[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/linkedin-svgrepo-com_tn4iaq.svg" width="80" height="80" alt="LinkedIn">](https://www.linkedin.com/in/mario-lebrero-garcia/)
-[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/github-142-svgrepo-com_tl2zgu.svg" width="80" height="80" alt="GitHub">](https://github.com/Bimai6)
+<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757696003/photoshop_red_xdbjyy.png" width="80" height="80" alt="Adobe Photoshop"> <img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757695859/premiere_red_w5zogv.png" width="80" height="80" alt="Adobe Premiere Pro">
 
 ---
 
 ### 📊 GitHub Stats
 ![Bimai6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bimai6&show_icons=true&title_color=B20D23&icon_color=B20D23&text_color=ffffff&bg_color=0d1117)
+
+---
+
+### 🔮 Next Steps
+
+I’m currently leveling up my dev game with:
+
+🖌️ Designing & coding my own portfolio from scratch (unique style, no templates ✨).
+
+🐳 Learning Docker for smoother deployments and scalable environments.
+
+⚡ Diving deeper into testing (Vitest, Pytest) & performance optimization.
+
+🔗 Strengthening full stack skills to complement my frontend expertise (focusing on Node).
+
+---
+
+### 🔗 Profiles
+[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/linkedin-svgrepo-com_tn4iaq.svg" width="80" height="80" alt="LinkedIn">](https://www.linkedin.com/in/mario-lebrero-garcia/)
+[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/github-142-svgrepo-com_tl2zgu.svg" width="80" height="80" alt="GitHub">](https://github.com/Bimai6)
+[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757696660/codewars_red_euz4jg.png" width="80" height="80" alt="Codewars">](https://www.codewars.com/users/Bimai6)
 
 ---
 
