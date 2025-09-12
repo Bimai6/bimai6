@@ -52,13 +52,6 @@ I’m currently leveling up my dev game with:
 
 ---
 
-### 🔗 Profiles
-[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/linkedin-svgrepo-com_tn4iaq.svg" width="80" height="80" alt="LinkedIn">](https://www.linkedin.com/in/mario-lebrero-garcia/)
-[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757522004/github-142-svgrepo-com_tl2zgu.svg" width="80" height="80" alt="GitHub">](https://github.com/Bimai6)
-[<img src="https://res.cloudinary.com/dus7e3jkj/image/upload/v1757696660/codewars_red_euz4jg.png" width="80" height="80" alt="Codewars">](https://www.codewars.com/users/Bimai6)
-
----
-
 ![Dostoyevski's Quote](https://res.cloudinary.com/dus7e3jkj/image/upload/v1754416812/Sin-t%C3%ADtulo-2_m9outm.png)
 
 
